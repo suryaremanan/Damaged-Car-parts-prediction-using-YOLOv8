@@ -2,7 +2,7 @@ task: detect
 mode: train
 model: null
 data: config.yaml
-epochs: 100
+epochs: 5000
 patience: 50
 batch: 16
 imgsz: 640

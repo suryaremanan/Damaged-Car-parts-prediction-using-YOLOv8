@@ -1,6 +1,6 @@
 path: /home/surya/Desktop/object_detection/data  # dataset root dir
-train: images/train  # train images (relative to 'path')
-val: images/train  # val images (relative to 'path')
+train: /home/surya/Desktop/damaged_car_parts_detection/data/images/train  # train images (relative to 'path')
+val: /home/surya/Desktop/damaged_car_parts_detection/data/images/train  # val images (relative to 'path')
 
 
   
