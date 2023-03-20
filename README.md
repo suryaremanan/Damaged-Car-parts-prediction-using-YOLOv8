@@ -33,4 +33,7 @@
 ![val_batch0_pred](https://user-images.githubusercontent.com/17148269/226127656-dce9f1ed-fc2d-41be-8400-678b6bbc0cb3.jpg)
 ![val_batch1_pred](https://user-images.githubusercontent.com/17148269/226127705-c9fddde3-b5cf-4266-91cf-08d5705aa452.jpg)
 ![val_batch2_pred](https://user-images.githubusercontent.com/17148269/226127766-4bb44851-a3af-4c06-a86c-c0fdbd3803f8.jpg)
+## Deployment
+
+![Screenshot from 2023-03-20 06-11-43](https://user-images.githubusercontent.com/17148269/226222000-41ed7812-b1d2-4d4f-a5ee-97230d0eba98.png)
 
