@@ -1,0 +1,17 @@
+path: /home/surya/Desktop/object_detection/data  # dataset root dir
+train: /home/surya/Desktop/damaged_car_parts_detection/data/images/train  # train images (relative to 'path')
+val: /home/surya/Desktop/damaged_car_parts_detection/data/images/train  # val images (relative to 'path')
+
+
+  
+# Classes
+names:
+  0: damaged door
+  1: damaged window
+  2: damaged headlight
+  3: damaged mirror
+  4: dent
+  5: damaged hood
+  6: damaged bumper
+  7: damaged wind shield
+

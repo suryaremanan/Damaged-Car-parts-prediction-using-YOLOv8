@@ -1,0 +1,19 @@
+description: Ultralytics YOLOv8n model trained on config.yaml
+author: Ultralytics
+license: GPL-3.0 https://ultralytics.com/license
+version: 8.0.54
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: damaged door
+  1: damaged window
+  2: damaged headlight
+  3: damaged mirror
+  4: dent
+  5: damaged hood
+  6: damaged bumper
+  7: damaged wind shield
