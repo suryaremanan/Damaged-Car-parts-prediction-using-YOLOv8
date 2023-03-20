@@ -1,6 +1,6 @@
 # Damaged-Car-parts-prediction-using-YOLOv8
 
-## Usage
+## Training
 
 ``` pip install ultralytics```
 
@@ -37,3 +37,11 @@
 
 ![Screenshot from 2023-03-20 06-11-43](https://user-images.githubusercontent.com/17148269/226222000-41ed7812-b1d2-4d4f-a5ee-97230d0eba98.png)
 
+## Usage
+
+* Clone the repo
+* cd to my_fastapi_app
+* run ```python main.py```
+
+Test with images
+Done!
